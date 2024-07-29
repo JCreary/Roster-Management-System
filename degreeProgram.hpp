@@ -1,5 +1,3 @@
-
-
 #ifndef DEGREEPROGRAM_H_ //prevents multiple includes
 #define DEGREEPROGRAM_H_ //prevents multiple includes
 #include <string> //Includes string
