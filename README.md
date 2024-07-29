@@ -1,5 +1,7 @@
 # Roster-Management-System
 
+Overview
+
 This project is a Roster Management System developed using C++. It allows users to manage student data, including adding, removing, and printing student information. The system also includes functionalities for validating email addresses, calculating the average days spent in courses, and filtering students by degree programs.
 
 Features
